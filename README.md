@@ -8,8 +8,7 @@ Event WebhookおよびParse Webhookに対応しています。
 - liberty
 
 # 起動方法
-リポジトリ：https://github.com/SendGridJP/webhook-liberty-example  
-[参考](http://qiita.com/asmanabu/items/a95dec97aabddd69acd8)に従ってWebアプリケーションをBluemix上に配置します。
+[参考資料](http://qiita.com/asmanabu/items/a95dec97aabddd69acd8)に従ってWebアプリケーションをBluemix上に配置します。
 
 # SendGridの設定
 ## Event Webhook
